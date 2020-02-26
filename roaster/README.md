@@ -84,7 +84,7 @@ Exploded view,left-to-right:
 1 - 5/16" toggle nut
 1 - strainer
 
-![chaff collector](chaffcollector.jpg)
+![chaff collector](chaffcollecter.jpg)
 
 ## Fireproof shopvac filter
 [Filters](https://www.amazon.com/dp/B083W6564Q/ref=cm_sw_em_r_mt_dp_U_UTFvEbEZHSGZH)
