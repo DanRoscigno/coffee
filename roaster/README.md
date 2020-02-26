@@ -20,5 +20,8 @@ https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#pos
  - 4" metal ductwork
  - thermocouples (look at oldgearhead for details I think)
  
+## From "OldGearHead's" project:
+https://forum.homeroasters.org/forum/viewthread.php?thread_id=2207
+ 
 ## LMK looks interesting
 https://github.com/elkayem/CoffeeRoaster
