@@ -18,7 +18,7 @@ https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#pos
  - 20 ga. SS perf plate (look at oldgearhead to see details for this)
      ![perf plate](perf_plate.jpg)
  - 4" metal ductwork
- - thermocouples (look at oldgearhead for details I think)
+ - thermocouples with 1/4-20 thread.  Can get them from [Auberins](https://www.auberins.com/index.php?main_page=index&cPath=3), I think I have a bunch 
  
 ## From "OldGearHead's" project:
 https://forum.homeroasters.org/forum/viewthread.php?thread_id=2207
