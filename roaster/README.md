@@ -71,6 +71,21 @@ https://github.com/elkayem/CoffeeRoaster
 ## Cool looking chaff screen
 https://www.youtube.com/watch?v=BZEuagSot7E
 
+## OldGearHead's chaff collector
+
+Exploded view,left-to-right:
+1 - 200mm 'K' TC
+2 - 5/16" nuts
+1 - 5/16" washer
+1 - 5/16" silicone 'O' ring
+1 - 5/16" threaded rod
+1 - 3.5" diameter cocktail shaker (body)
+1 - Angel Cake center post
+1 - 5/16" toggle nut
+1 - strainer
+
+![chaff collector](chaffcollector.jpg)
+
 ## Fireproof shopvac filter
 [Filters](https://www.amazon.com/dp/B083W6564Q/ref=cm_sw_em_r_mt_dp_U_UTFvEbEZHSGZH)
 
