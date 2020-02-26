@@ -78,3 +78,6 @@ Need to think about whether or not the air is safe to recirculate after going th
 
 ## Advice from "dja"
 first thing to design is a handle on the roast chamber, mines pyrex and at 550 degrees its no fun if you forget you mitts
+
+## Removing beans from roasting chamber
+[Video from OldGearHead](https://www.youtube.com/watch?v=uDQoVGO9Ac4)
