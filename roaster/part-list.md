@@ -16,7 +16,7 @@ https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#pos
  - Permatex 81878 Ultra Copper sealant
  - 3.5 in stainless steel tubing (16 ga wall thickness) with a stainless V-flange
  - 20 ga. SS perf plate (look at oldgearhead to see details for this)
-     ![perf plate](perf_plate.gif)
+     ![perf plate](perf_plate.jpg)
  - 4" metal ductwork
  - thermocouples (look at oldgearhead for details I think)
  
