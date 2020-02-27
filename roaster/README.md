@@ -96,3 +96,14 @@ first thing to design is a handle on the roast chamber, mines pyrex and at 550 d
 
 ## Removing beans from roasting chamber
 [Video from OldGearHead](https://www.youtube.com/watch?v=uDQoVGO9Ac4)
+
+## Thermocouple placement
+
+From OldGearHead
+
+I ran my roaster for several months with a very long thermocouple from the top plate into
+the bean mass,. and the temperatures were right on what the reference books say: 400-410°F 
+first crack and 420-430°F finish. However, I also tracked everything with a second thermocouple 
+located 1.5 inches below the perf plate. What I found was that after T+3 minutes the tc 
+located below the perf plate tracked the BMT probe with an offset of -30°F. Therefore, 
+two years ago, I stopped using the BMT probe and never looked back.
