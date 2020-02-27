@@ -106,3 +106,12 @@ first crack and 420-430°F finish. However, I also tracked everything with a sec
 located 1.5 inches below the perf plate. What I found was that after T+3 minutes the tc 
 located below the perf plate tracked the BMT probe with an offset of -30°F. Therefore, 
 two years ago, I stopped using the BMT probe and never looked back.
+
+## Holder for pyrex
+
+Aluminum:
+ - one 5" circle 3/4" thick
+ - one 6.5" circle 3/4" thick
+ ![flanges](bake-a-round-flanges.jpg)
+Measurements:
+ ![flanges](jims_adapter_ring_copy.jpg)
