@@ -102,6 +102,12 @@ first thing to design is a handle on the roast chamber, mines pyrex and at 550 d
 ## Removing beans from roasting chamber
 [Video from OldGearHead](https://www.youtube.com/watch?v=uDQoVGO9Ac4)
 
+## Better way to remove the beans
+No shopvac needed, use the pressure of the blower and seal off the exit with a rubber seal.  This forces the beans through a hose.
+https://www.youtube.com/watch?v=VxOij89bTOU
+
+[hose for beans](hose-for-beans.png)
+
 ## Thermocouple placement
 
 From OldGearHead
