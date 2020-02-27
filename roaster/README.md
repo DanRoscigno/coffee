@@ -115,3 +115,6 @@ Aluminum:
  ![flanges](bake-a-round-flanges.jpg)
 Measurements:
  ![flanges](jims_adapter_ring_copy.jpg)
+
+## Chad's chaff exit
+![chaff exit](CHAFF.jpg)
