@@ -64,8 +64,14 @@ https://forum.homeroasters.org/forum/viewthread.php?thread_id=2207
 + 1 - Main switch (maintained rocker)
 + 1 - Shop vac hose and wand assembly (1.25 inch) for bean-evac-to-quart jar
  
-## LMK looks interesting
+## LKM looks interesting
 https://github.com/elkayem/CoffeeRoaster
+
+Here is a closeup of the thermocouple placement used by LKM, the TC at the center measures the
+environmental temp (the temp of the hot air) and the one toward the side of the chamber measures
+the bean temp.
+
+![thermocouples](Dual-thermocouples.jpg)
 
 ## Cool looking chaff screen
 https://www.youtube.com/watch?v=BZEuagSot7E
