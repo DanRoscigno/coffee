@@ -106,7 +106,7 @@ first thing to design is a handle on the roast chamber, mines pyrex and at 550 d
 No shopvac needed, use the pressure of the blower and seal off the exit with a rubber seal.  This forces the beans through a hose.
 https://www.youtube.com/watch?v=VxOij89bTOU
 
-[hose for beans](hose-for-beans.png)
+![hose for beans](hose-for-beans.png)
 
 ## Thermocouple placement
 
