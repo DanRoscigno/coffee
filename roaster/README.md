@@ -58,12 +58,11 @@ https://forum.homeroasters.org/forum/viewthread.php?thread_id=2207
 + 3 - Very nice RC parts, custom built by DJA
 + 1 - Lot of silicone o-rings
 + 1 - Box of Band-Aids
-___ 1 - Tyco 30A circuit breaker
-___ 3 - DIN Ground terminals
-___ 1 - Green Pilot light
-___ 1 - Main switch (maintained rocker)
-___ 1 - Dayton 4X796B motor speed controller
-___ 1 - Shop vac hose and wand assembly (1.25 inch) for bean-evac-to-quart jar
++ 1 - Tyco 30A circuit breaker
++ 3 - DIN Ground terminals
++ 1 - Green Pilot light
++ 1 - Main switch (maintained rocker)
++ 1 - Shop vac hose and wand assembly (1.25 inch) for bean-evac-to-quart jar
  
 ## LMK looks interesting
 https://github.com/elkayem/CoffeeRoaster
