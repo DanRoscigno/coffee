@@ -133,6 +133,9 @@ Measurements:
 
 ## Firebricks
 
+### Info
+https://ceramicartsnetwork.org/wp-content/uploads/2010/06/firebrick-types.pdf
+
 ### Soft Insulating
 These are the ones I need
 
