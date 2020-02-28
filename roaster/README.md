@@ -2,7 +2,7 @@
 ## Parts
 
 ### I have these:
- - Bake-A-Round Pyrex tube 
+ - [Bake-A-Round](http://www.pyrexlove.com/pyrex-bake-a-round/glassware/) Pyrex tube 
  - [Heat gun element](https://www.zoro.com/i/G0394895/)
  - [Permatex 81878](https://www.zoro.com/i/G2802633/) Ultra Copper sealant
  - [vacuum motor](https://www.zoro.com/i/G0986632/)
@@ -16,7 +16,7 @@
 
 ### On order:
  - KBIC-125 [controller](https://www.amazon.com/dp/B007ZQLJM0/ref=cm_sw_em_r_mt_dp_U_q4jwEb6DNYKBE)
- - [5Kohm potentiometer](ttps://www.amazon.com/dp/B07DHG6SYS/ref=cm_sw_em_r_mt_dp_U_0wtwEb4S71QP0)
+ - [5Kohm potentiometer](https://www.amazon.com/dp/B07DHG6SYS/ref=cm_sw_em_r_mt_dp_U_0wtwEb4S71QP0)
  - Auber SYL-2352 [PID with ramp and soak](https://www.auberins.com/images/Manual/SYL-2352P%20Manual.pdf)
  - KB Electronics auxiliary heatsink 9861
     Probably not needed as I will likely not run the blower maxed out,
