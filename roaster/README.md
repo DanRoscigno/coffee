@@ -1,4 +1,4 @@
- - KBIC-225 [controller](https://www.ebay.com/itm/KBIC-SOILD-STATE-VARIABLE-SPEED-DC-MOTOR-CONTROL-KBIC-22S-30-DAY-WARRANTY/181192621391)
+ - KBIC-125 [controller](https://www.amazon.com/dp/B007ZQLJM0/ref=cm_sw_em_r_mt_dp_U_q4jwEb6DNYKBE)
  - KBIC controller [HP resistor](https://www.amazon.com/gp/product/B007YA2SJ0/ref=ox_sc_act_title_1?smid=AYJQB4BLLY87P&psc=1)
  - [RTV Silicone Sealant](https://www.zoro.com/i/G2802633/)
  - [Heat gun element](https://www.zoro.com/i/G0394895/)
