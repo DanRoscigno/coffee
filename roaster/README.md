@@ -130,3 +130,17 @@ Measurements:
 
 ## Chad's chaff exit
 ![chaff exit](CHAFF.jpg)
+
+## Firebricks
+
+### Soft Insulating
+These are the ones I need
+
+[eBay 6 pack $45](https://ebay.us/hLine4)
+
+[Amazon 6 thick ones](https://www.amazon.com/gp/product/B07Y15W2SP?pf_rd_p=ab873d20-a0ca-439b-ac45-cd78f07a84d8&pf_rd_r=00VK1TAQ0TZ67VAY5TCA)
+
+[Etsy, any quantity](https://www.etsy.com/listing/766795888/k-26-insulating-firebrick-9-x-45-x-25?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_a-craft_supplies_and_tools-tools_and_equipment-tools-torching_and_heating-hand_torches&utm_custom1=d39f4c23-629a-414a-a7f6-fffa49be09ec&utm_content=go_1843970764_70433201900_346429180316_aud-459688891835:pla-513785385112_c__766795888&utm_custom2=1843970764&gclid=CjwKCAiA7t3yBRADEiwA4GFlI0wfo2JZHB44etMEIkBwKUgHNSaCYamu5fSxg9Jruyg-cRKoTM2sTBoCqAYQAvD_BwE)
+
+
+
