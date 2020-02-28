@@ -25,7 +25,7 @@ but I always use heatsinks
  - [Silicone O-rings](https://www.amazon.com/dp/B000FN0Z98/ref=cm_sw_em_r_mt_dp_U_nstwEbZ1QKNF5)
  - [Insulating Fire Brick - 9" x 4.5" x 2.5"](https://www.amazon.com/dp/B07XVSCNZV/ref=cm_sw_em_r_mt_dp_U_2ZtwEbMGV0W62)
 
- ![fire bricks](images/firebricks.gif)
+    ![fire bricks](images/firebricks.gif)
 
 ### Need to fabricate:
  - 20 ga. SS perf plate (It has nineteen .15 inch diameter holes)
