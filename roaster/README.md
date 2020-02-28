@@ -48,44 +48,6 @@ https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#pos
  
 ## From "OldGearHead's" project:
 https://forum.homeroasters.org/forum/viewthread.php?thread_id=2207
-+ 1 - Bloomfield 8773 (Junk) Coffee Brewer
-+ 1 - Wooden box 30’x18”x13”
-+ 4 - 2.5” Castors
-+ 4 feet of 2” Schedule 40 PVC pipe
-+ 1 - 3 inch Schedule 40 PVC flange
-+ 1 - 3 inch-to-two inch Schedule 40 PVC adapter
-+ 8 feet of 2.5” flex hose
-+ 1 - 2” Schedule 40 PVC ‘T’, for bean-evac-to quart jar
-+ 2 - Two inch Schedule 40 PVC couplers
-+ 1 - 1-1/2 HP spa blower (booted)
-+ 6 - ‘T’ nuts (10-24)
-+ 2 - 1” x 3” piano hinges
-+ 1 lot machine screws, washers, and nuts
-+ 1 - 12”x 1.5” Chrome sink drain extension
-+ 1 - 3.5” Stainless steel cocktail shaker
-+ 1 - Master HAS-043K heat gun element
-+ 1 lot Permatex Red silicone
-+ 1 lot hookup wire
-+ 1 - 14/3 Power cord
-+ 1 - 7.75” piece of 35 mm DIN rail
-+ 10 - 8 mm DIN terminals
-+ 1 - Ice cube relay & socket
-+ 1- Nema 4x Enclosure 9”x 7” x 4”
-+ 1 - Extech VFL PID Controller
-+ 1 - Tyco 50A SSR
-+ 1 - Brew switch (momentary rocker)
-+ 1 - Heater stop switch (momentary N.C. push button)
-+ 1 - Corning bread tube (3.75” x 14”)
-+ 1 - 3” x 3” Aluminum turbo hose coupler
-+ 1 - Zach & Dani chaff screen and baffle-type separator
-+ 3 - Very nice RC parts, custom built by DJA
-+ 1 - Lot of silicone o-rings
-+ 1 - Box of Band-Aids
-+ 1 - Tyco 30A circuit breaker
-+ 3 - DIN Ground terminals
-+ 1 - Green Pilot light
-+ 1 - Main switch (maintained rocker)
-+ 1 - Shop vac hose and wand assembly (1.25 inch) for bean-evac-to-quart jar
  
 ## LKM looks interesting
 https://github.com/elkayem/CoffeeRoaster
