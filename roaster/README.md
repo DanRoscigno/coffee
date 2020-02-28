@@ -11,16 +11,16 @@ https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#pos
  - DC speed controller (KBIC-125, slightly higher current model than used by OGH). The blower never runs much over half speed, the DC controller is super.
  - Bake-a-round 
  - Fire Bricks: Need to be about 2.5 inches thick so that two of them mortared together can have a 3.5" hole drilled in the top
-    ![fire bricks](firebricks.gif)
+    ![fire bricks](images/firebricks.gif)
  - single 1700 W heat gun element (Master HAS-043K, 120 V)
-     ![heater in fire bricks](firebricks-with-heater.gif)
+     ![heater in fire bricks](images/firebricks-with-heater.gif)
  - Permatex 81878 Ultra Copper sealant
  - 3.5 in stainless steel tubing (16 ga wall thickness) with a stainless V-flange
  - 20 ga. SS perf plate (It has nineteen .15 inch diameter holes)
-     ![perf plate](perf_plate.jpg)
+     ![perf plate](images/perf_plate.jpg)
  - 4" metal ductwork
  
-     ![duct work](duct-work.gif)
+     ![duct work](images/duct-work.gif)
  - thermocouples with 1/4-20 thread.  Can get them from [Auberins](https://www.auberins.com/index.php?main_page=index&cPath=3), I think I have a bunch 
  
 ## From "OldGearHead's" project:
@@ -71,7 +71,7 @@ Here is a closeup of the thermocouple placement used by LKM, the TC at the cente
 environmental temp (the temp of the hot air) and the one toward the side of the chamber measures
 the bean temp.
 
-![thermocouples](Dual-thermocouples.jpg)
+![thermocouples](images/Dual-thermocouples.jpg)
 
 ## Cool looking chaff screen
 https://www.youtube.com/watch?v=BZEuagSot7E
@@ -89,7 +89,7 @@ Exploded view,left-to-right:
  - 1 - 5/16" toggle nut
  - 1 - strainer
 
-![chaff collector](chaffcollecter.jpg)
+![chaff collector](images/chaffcollecter.jpg)
 
 ## Fireproof shopvac filter
 [Filters](https://www.amazon.com/dp/B083W6564Q/ref=cm_sw_em_r_mt_dp_U_UTFvEbEZHSGZH)
@@ -106,7 +106,7 @@ first thing to design is a handle on the roast chamber, mines pyrex and at 550 d
 No shopvac needed, use the pressure of the blower and seal off the exit with a rubber seal.  This forces the beans through a hose.
 https://www.youtube.com/watch?v=VxOij89bTOU
 
-![hose for beans](hose-for-beans.png)
+![hose for beans](images/hose-for-beans.png)
 
 ## Thermocouple placement
 
@@ -124,12 +124,12 @@ two years ago, I stopped using the BMT probe and never looked back.
 Aluminum:
  - one 5" circle 3/4" thick
  - one 6.5" circle 3/4" thick
- ![flanges](bake-a-round-flanges.jpg)
+ ![flanges](images/bake-a-round-flanges.jpg)
 Measurements:
- ![flanges](jims_adapter_ring_copy.jpg)
+ ![flanges](images/jims_adapter_ring_copy.jpg)
 
 ## Chad's chaff exit
-![chaff exit](CHAFF.jpg)
+![chaff exit](images/CHAFF.jpg)
 
 ## Firebricks
 
