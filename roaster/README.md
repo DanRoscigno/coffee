@@ -22,10 +22,7 @@
     Probably not needed as I will likely not run the blower maxed out,
 but I always use heatsinks
  - [Silicone O-rings](https://www.amazon.com/dp/B000FN0Z98/ref=cm_sw_em_r_mt_dp_U_nstwEbZ1QKNF5)
-
-### Need to order:
- - Fire Bricks: Need to be about 2.5 inches thick so that two of them mortared together can have a 3.5" hole drilled in the top
-    [eBay 6 pack $45](https://ebay.us/hLine4)
+ - [Insulating Fire Brick - 9" x 4.5" x 2.5"](https://www.amazon.com/dp/B07XVSCNZV/ref=cm_sw_em_r_mt_dp_U_2ZtwEbMGV0W62)
     ![fire bricks](images/firebricks.gif)
 
 ### Need to fabricate:
@@ -155,14 +152,6 @@ Measurements:
 
 ### Info
 https://ceramicartsnetwork.org/wp-content/uploads/2010/06/firebrick-types.pdf
-
-### Soft Insulating
-These are the ones I need
-
-
-[Amazon 6 thick ones](https://www.amazon.com/gp/product/B07Y15W2SP?pf_rd_p=ab873d20-a0ca-439b-ac45-cd78f07a84d8&pf_rd_r=00VK1TAQ0TZ67VAY5TCA)
-
-[Etsy, any quantity](https://www.etsy.com/listing/766795888/k-26-insulating-firebrick-9-x-45-x-25?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_a-craft_supplies_and_tools-tools_and_equipment-tools-torching_and_heating-hand_torches&utm_custom1=d39f4c23-629a-414a-a7f6-fffa49be09ec&utm_content=go_1843970764_70433201900_346429180316_aud-459688891835:pla-513785385112_c__766795888&utm_custom2=1843970764&gclid=CjwKCAiA7t3yBRADEiwA4GFlI0wfo2JZHB44etMEIkBwKUgHNSaCYamu5fSxg9Jruyg-cRKoTM2sTBoCqAYQAvD_BwE)
 
 fan > heater > chamber > atmosphere
 
