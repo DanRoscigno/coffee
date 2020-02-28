@@ -44,7 +44,8 @@ https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#pos
  - Permatex 81878 Ultra Copper sealant
  - 3.5 in stainless steel tubing (16 ga wall thickness) with a stainless V-flange
  - 4" metal ductwork
- ![duct work](images/duct-work.gif)
+
+    ![duct work](images/duct-work.gif)
  
 ## From "OldGearHead's" project:
 https://forum.homeroasters.org/forum/viewthread.php?thread_id=2207
