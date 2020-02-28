@@ -23,12 +23,11 @@ but I always use heatsinks
  - Auber SYL-2352 [PID with ramp and soak](https://www.auberins.com/images/Manual/SYL-2352P%20Manual.pdf)
  - [Silicone O-rings](https://www.amazon.com/dp/B000FN0Z98/ref=cm_sw_em_r_mt_dp_U_nstwEbZ1QKNF5)
  - [Insulating Fire Brick - 9" x 4.5" x 2.5"](https://www.amazon.com/dp/B07XVSCNZV/ref=cm_sw_em_r_mt_dp_U_2ZtwEbMGV0W62)
-
-    ![fire bricks](images/firebricks.gif)
+ ![fire bricks](images/firebricks.gif)
 
 ### Need to fabricate:
  - 20 ga. SS perf plate (It has nineteen .15 inch diameter holes)
-     ![perf plate](images/perf_plate.jpg)
+ ![perf plate](images/perf_plate.jpg)
 #### Holder for pyrex
 
 Aluminum:
@@ -42,12 +41,11 @@ Measurements:
 https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#post_65069
 
  - single 1700 W heat gun element (Master HAS-043K, 120 V)
-     ![heater in fire bricks](images/firebricks-with-heater.gif)
+ ![heater in fire bricks](images/firebricks-with-heater.gif)
  - Permatex 81878 Ultra Copper sealant
  - 3.5 in stainless steel tubing (16 ga wall thickness) with a stainless V-flange
  - 4" metal ductwork
- 
-     ![duct work](images/duct-work.gif)
+ ![duct work](images/duct-work.gif)
  
 ## From "OldGearHead's" project:
 https://forum.homeroasters.org/forum/viewthread.php?thread_id=2207
