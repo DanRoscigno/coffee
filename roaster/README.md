@@ -15,10 +15,10 @@
 
 
 ### On order:
- - KBIC-125 [controller](https://www.amazon.com/dp/B007ZQLJM0/ref=cm_sw_em_r_mt_dp_U_q4jwEb6DNYKBE)
+ - [KBIC-125 DC motor controller](https://acim.nidec.com/drives/kbelectronics/-/media/kbelectronics/documents/dc-drives/data-sheets/kbic-0719.ashx?la=en)
  - [5Kohm potentiometer](https://www.amazon.com/dp/B07DHG6SYS/ref=cm_sw_em_r_mt_dp_U_0wtwEb4S71QP0)
  - Auber SYL-2352 [PID with ramp and soak](https://www.auberins.com/images/Manual/SYL-2352P%20Manual.pdf)
- - KB Electronics auxiliary heatsink 9861
+ - [KB Electronics auxiliary heatsink 9861](https://acim.nidec.com/drives/kbelectronics/-/media/kbelectronics/documents/dc-drives/data-sheets/9861.ashx?la=en)
     Probably not needed as I will likely not run the blower maxed out,
 but I always use heatsinks
  - [Silicone O-rings](https://www.amazon.com/dp/B000FN0Z98/ref=cm_sw_em_r_mt_dp_U_nstwEbZ1QKNF5)
