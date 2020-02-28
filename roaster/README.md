@@ -1,27 +1,47 @@
- - KBIC-125 [controller](https://www.amazon.com/dp/B007ZQLJM0/ref=cm_sw_em_r_mt_dp_U_q4jwEb6DNYKBE)
- - KBIC controller [HP resistor](https://www.amazon.com/gp/product/B007YA2SJ0/ref=ox_sc_act_title_1?smid=AYJQB4BLLY87P&psc=1)
- - [RTV Silicone Sealant](https://www.zoro.com/i/G2802633/)
+
+## Parts
+
+### I have these:
+ - Bake-A-Round Pyrex tube 
  - [Heat gun element](https://www.zoro.com/i/G0394895/)
+ - [Permatex 81878](https://www.zoro.com/i/G2802633/) Ultra Copper sealant
  - [vacuum motor](https://www.zoro.com/i/G0986632/)
+    Ametek Lamb two-stage 2-stage blower (97 CFM, 8.3Amp, 120 V, [1000W electrical] model 116392
+ - Crydom [D2425 Solid State Relay](https://www.hbcontrols.com/product-page/d2425) w/ Heat Sink
+ - thermocouples with 1/4-20 thread.  Can get them from [Auberins](https://www.auberins.com/index.php?main_page=index&cPath=3)
+ - [Versachem 73009 Super Clear Silicone](https://www.amazon.com/dp/B0002JN5I8/ref=cm_sw_em_r_mt_dp_U_bztwEbQMZ44DX)
+ - [Permatex 81160 High-Temp Red RTV Silicone Gasket](https://www.amazon.com/dp/B0002UEN1A/ref=cm_sw_em_r_mt_dp_U_eztwEbTB3FWX0)
+ - [Plug-In Horsepower Resistor (KB 9842)](https://www.amazon.com/dp/B007YA2SJ0/ref=cm_sw_em_r_mt_dp_U_hztwEbJN1BJ7B)
+
+
+### On order:
+ - KBIC-125 [controller](https://www.amazon.com/dp/B007ZQLJM0/ref=cm_sw_em_r_mt_dp_U_q4jwEb6DNYKBE)
+ - [5Kohm potentiometer](ttps://www.amazon.com/dp/B07DHG6SYS/ref=cm_sw_em_r_mt_dp_U_0wtwEb4S71QP0)
+ - Auber SYL-2352 [PID with ramp and soak](https://www.auberins.com/images/Manual/SYL-2352P%20Manual.pdf)
+ - KB Electronics auxiliary heatsink 9861
+    Probably not needed as I will likely not run the blower maxed out,
+but I always use heatsinks
+ - [Silicone O-rings](https://www.amazon.com/dp/B000FN0Z98/ref=cm_sw_em_r_mt_dp_U_nstwEbZ1QKNF5)
+
+### Need to order:
+ - Fire Bricks: Need to be about 2.5 inches thick so that two of them mortared together can have a 3.5" hole drilled in the top
+    [eBay 6 pack $45](https://ebay.us/hLine4)
+    ![fire bricks](images/firebricks.gif)
+
+### Need to fabricate:
+ - 20 ga. SS perf plate (It has nineteen .15 inch diameter holes)
+     ![perf plate](images/perf_plate.jpg)
 
 ## From "Brewin_Bruin's" project:
 https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#post_65069
 
- - Ametek Lamb two-stage 2-stage blower (97 CFM, 8.3Amp, 120 V, [1000W electrical] model 116392)
- - DC speed controller (KBIC-125, slightly higher current model than used by OGH). The blower never runs much over half speed, the DC controller is super.
- - Bake-a-round 
- - Fire Bricks: Need to be about 2.5 inches thick so that two of them mortared together can have a 3.5" hole drilled in the top
-    ![fire bricks](images/firebricks.gif)
  - single 1700 W heat gun element (Master HAS-043K, 120 V)
      ![heater in fire bricks](images/firebricks-with-heater.gif)
  - Permatex 81878 Ultra Copper sealant
  - 3.5 in stainless steel tubing (16 ga wall thickness) with a stainless V-flange
- - 20 ga. SS perf plate (It has nineteen .15 inch diameter holes)
-     ![perf plate](images/perf_plate.jpg)
  - 4" metal ductwork
  
      ![duct work](images/duct-work.gif)
- - thermocouples with 1/4-20 thread.  Can get them from [Auberins](https://www.auberins.com/index.php?main_page=index&cPath=3), I think I have a bunch 
  
 ## From "OldGearHead's" project:
 https://forum.homeroasters.org/forum/viewthread.php?thread_id=2207
@@ -139,7 +159,6 @@ https://ceramicartsnetwork.org/wp-content/uploads/2010/06/firebrick-types.pdf
 ### Soft Insulating
 These are the ones I need
 
-[eBay 6 pack $45](https://ebay.us/hLine4)
 
 [Amazon 6 thick ones](https://www.amazon.com/gp/product/B07Y15W2SP?pf_rd_p=ab873d20-a0ca-439b-ac45-cd78f07a84d8&pf_rd_r=00VK1TAQ0TZ67VAY5TCA)
 
