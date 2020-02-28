@@ -145,5 +145,8 @@ These are the ones I need
 
 [Etsy, any quantity](https://www.etsy.com/listing/766795888/k-26-insulating-firebrick-9-x-45-x-25?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_a-craft_supplies_and_tools-tools_and_equipment-tools-torching_and_heating-hand_torches&utm_custom1=d39f4c23-629a-414a-a7f6-fffa49be09ec&utm_content=go_1843970764_70433201900_346429180316_aud-459688891835:pla-513785385112_c__766795888&utm_custom2=1843970764&gclid=CjwKCAiA7t3yBRADEiwA4GFlI0wfo2JZHB44etMEIkBwKUgHNSaCYamu5fSxg9Jruyg-cRKoTM2sTBoCqAYQAvD_BwE)
 
+fan > heater > chamber > atmosphere
 
+motor drive
 
+Auber PID with Ramp / Soak
