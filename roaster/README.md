@@ -3,7 +3,8 @@
 
 ### I have these:
  - [Bake-A-Round](http://www.pyrexlove.com/pyrex-bake-a-round/glassware/) Pyrex tube 
- - [Heat gun element](https://www.zoro.com/i/G0394895/)
+ - [Heat gun element](https://www.zoro.com/i/G0394895/)(Master HAS-043K, 120 V)
+ ![heater in fire bricks](images/firebricks-with-heater.gif)
  - [Permatex 81878](https://www.zoro.com/i/G2802633/) Ultra Copper sealant
  - [vacuum motor](https://www.zoro.com/i/G0986632/)
     Ametek Lamb two-stage 2-stage blower (97 CFM, 8.3Amp, 120 V, [1000W electrical] model 116392
@@ -40,8 +41,6 @@ Measurements:
 ## From "Brewin_Bruin's" project:
 https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#post_65069
 
- - single 1700 W heat gun element (Master HAS-043K, 120 V)
- ![heater in fire bricks](images/firebricks-with-heater.gif)
  - Permatex 81878 Ultra Copper sealant
  - 3.5 in stainless steel tubing (16 ga wall thickness) with a stainless V-flange
  - 4" metal ductwork
