@@ -133,8 +133,12 @@ Auber PID with Ramp / Soak
 ## KBIC trim from OldGearHead
 
 Okay, I'm just about 100% with this project. I have installed the DC drive, and I would like to report that it is far superior (and less costly) than the Dayton router controller. I set up the drive as follows:
+
+```
 Min speed = 20 VDC
 Max speed - 70 VDC
 HP = 1.0 (resistor)
 Current limit = 6 amp
+```
+
 
