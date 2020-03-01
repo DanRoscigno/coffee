@@ -3,28 +3,28 @@
 
 ### I have these:
  - [Bake-A-Round](http://www.pyrexlove.com/pyrex-bake-a-round/glassware/) Pyrex tube 
+ - [Insulating Fire Brick - 9" x 4.5" x 2.5"](https://www.amazon.com/dp/B07XVSCNZV/ref=cm_sw_em_r_mt_dp_U_2ZtwEbMGV0W62) (set of four bricks, get soft ones so that you can carve out the chamber)
+    ![fire bricks](images/firebricks.gif)
  - [Heat gun element](https://www.zoro.com/i/G0394895/) (Master HAS-043K, 120 V)
  ![heater in fire bricks](images/firebricks-with-heater.gif)
  - [Permatex 81878](https://www.zoro.com/i/G2802633/) Ultra Copper sealant
  - [vacuum motor](https://www.zoro.com/i/G0986632/)
     Ametek Lamb two-stage 2-stage blower (97 CFM, 8.3Amp, 120 V, [1000W electrical] model 116392
  - Crydom [D2425 Solid State Relay](https://www.hbcontrols.com/product-page/d2425) w/ Heat Sink
- - thermocouples with 1/4-20 thread.  Can get them from [Auberins](https://www.auberins.com/index.php?main_page=index&cPath=3)
+ - thermocouples with 50mm sheath.  I would check with Auber, but I had this one from[Amazon](https://www.amazon.com/dp/B07QRF4XPG/ref=cm_sw_em_r_mt_dp_U_kjdxEbK8SFQQT)
  - [Versachem 73009 Super Clear Silicone](https://www.amazon.com/dp/B0002JN5I8/ref=cm_sw_em_r_mt_dp_U_bztwEbQMZ44DX)
  - [Permatex 81160 High-Temp Red RTV Silicone Gasket](https://www.amazon.com/dp/B0002UEN1A/ref=cm_sw_em_r_mt_dp_U_eztwEbTB3FWX0)
  - [Plug-In Horsepower Resistor (KB 9842)](https://www.amazon.com/dp/B007YA2SJ0/ref=cm_sw_em_r_mt_dp_U_hztwEbJN1BJ7B)
  - [KB Electronics auxiliary heatsink 9861](https://acim.nidec.com/drives/kbelectronics/-/media/kbelectronics/documents/dc-drives/data-sheets/9861.ashx?la=en)
     Probably not needed as I will likely not run the blower maxed out,
 but I always use heatsinks
+ - [KBIC-125 DC motor controller](https://acim.nidec.com/drives/kbelectronics/-/media/kbelectronics/documents/dc-drives/data-sheets/kbic-0719.ashx?la=en)
+ - [5Kohm potentiometer](https://www.amazon.com/dp/B07DHG6SYS/ref=cm_sw_em_r_mt_dp_U_0wtwEb4S71QP0)
+ - [Silicone O-rings](https://www.amazon.com/dp/B000FN0Z98/ref=cm_sw_em_r_mt_dp_U_nstwEbZ1QKNF5)
 
 
 ### On order:
- - [KBIC-125 DC motor controller](https://acim.nidec.com/drives/kbelectronics/-/media/kbelectronics/documents/dc-drives/data-sheets/kbic-0719.ashx?la=en)
- - [5Kohm potentiometer](https://www.amazon.com/dp/B07DHG6SYS/ref=cm_sw_em_r_mt_dp_U_0wtwEb4S71QP0)
  - Auber SYL-2352 [PID with ramp and soak](https://www.auberins.com/images/Manual/SYL-2352P%20Manual.pdf)
- - [Silicone O-rings](https://www.amazon.com/dp/B000FN0Z98/ref=cm_sw_em_r_mt_dp_U_nstwEbZ1QKNF5)
- - [Insulating Fire Brick - 9" x 4.5" x 2.5"](https://www.amazon.com/dp/B07XVSCNZV/ref=cm_sw_em_r_mt_dp_U_2ZtwEbMGV0W62) (set of four bricks, get soft ones so that you can carve out the chamber)
-    ![fire bricks](images/firebricks.gif)
 
 ### Need to fabricate:
  - 20 ga. SS perf plate (It has nineteen .15 inch diameter holes)
@@ -41,7 +41,6 @@ Measurements:
 ## From "Brewin_Bruin's" project:
 https://forum.homeroasters.org/forum/viewthread.php?thread_id=5505&pid=65069#post_65069
 
- - Permatex 81878 Ultra Copper sealant
  - 3.5 in stainless steel tubing (16 ga wall thickness) with a stainless V-flange
  - 4" metal ductwork
 
