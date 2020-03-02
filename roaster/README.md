@@ -30,6 +30,7 @@ but I always use heatsinks
  - [Permatex 81878](https://www.zoro.com/i/G2802633/) Ultra Copper sealant
  - [Versachem 73009 Super Clear Silicone](https://www.amazon.com/dp/B0002JN5I8/ref=cm_sw_em_r_mt_dp_U_bztwEbQMZ44DX)
  - [Permatex 81160 High-Temp Red RTV Silicone Gasket](https://www.amazon.com/dp/B0002UEN1A/ref=cm_sw_em_r_mt_dp_U_eztwEbTB3FWX0)
+ - 3.5" tri-clamps
 
 ### On order:
 
