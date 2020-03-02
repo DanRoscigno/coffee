@@ -33,6 +33,8 @@ but I always use heatsinks
 
 ### On order:
 
+nothing
+
 ### Need to fabricate:
  - 20 ga. SS perf plate (It has nineteen .15 inch diameter holes)
  ![perf plate](images/perf_plate.jpg)
