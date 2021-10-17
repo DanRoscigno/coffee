@@ -57,25 +57,28 @@ Add 97g Potassium Bicarb to 1 gallon of RO water
 ## Coffee water:
 Add 1 tablespoon of the concentrate to 1 gallon of water
 
-## I want to keep the concentrate for 20 gallons handy, and I want it in a 1.5 liter bottle:
+## I don't want a gallon of concentrate sitting around
+It takes up too much space, and I only use 20 gallons of coffee water a month.  I also want a weker conecntration in the concentrate so that I can easily pour it into the gallon bottle of water without putting in too much.
 
-Prof. Pavlis's recipe makes a bunch more than 20 gallons from one gallon of concentrate:
+So, I want a 1500ml bottle of concentrate, and I want it to make 20 gallons of coffee water.  
+
+## My concentrate
+A gallon is 3.785 Liters (in the US), so I want the weight of Potassium Bicarb for 1 gallon:
+
 ```
-1 gallon == 3.785 liters
-1 tablespoon == 15ml
-There are 3785 / 15 == 252 tablespoons in 1 gallon
+100mg       379mg
+-------  = -------
+1 Liter    3.785 L
 ```
 
-20     xg
---  = ---
-252   97g
+And I want to make 20 gallons:
 
-20 x 97 = 252x
-
-20 x 97
-------- = x
- 252
+```
+379mg x 20 = 7.58g
+```
 
 To make the concentrate, add 7.6g Potassium Bicarb to 1.5 L water
+
+## Prepare 1 gallon of coffee water
 
 To make the coffee water add 75ml of concentrate to a 1 gallon bottle, and fill rest with RO water
