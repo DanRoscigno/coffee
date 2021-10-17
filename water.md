@@ -46,3 +46,36 @@ Epsom Salts:
 
 Potassium Bicarb:
 20 gallons x 3.785 liters / gallon x 0.200g / liter = 15.14 grams
+
+# Another option: Prof. Pavlis' recipe
+
+## Goal: 100mg / Liter Potassium Bicarb
+
+## Concentrate:
+Add 97g Potassium Bicarb to 1 gallon of RO water
+
+## Coffee water:
+Add 1 tablespoon of the concentrate to 1 gallon of water
+
+## I want to keep the concentrate for 20 gallons handy, and I want it in a 1.5 liter bottle:
+
+Prof. Pavlis's recipe makes a bunch more than 20 gallons from one gallon of concentrate:
+```
+1 gallon == 3.785 liters
+1 tablespoon == 15ml
+There are 3785 / 15 == 252 tablespoons in 1 gallon
+```
+
+20     xg
+--  = ---
+252   97g
+
+20 x 97 = 252x
+
+20 x 97
+------- = x
+ 252
+
+To make the concentrate, add 7.6g Potassium Bicarb to 1.5 L water
+
+To make the coffee water add 75ml of concentrate to a 1 gallon bottle, and fill rest with RO water
